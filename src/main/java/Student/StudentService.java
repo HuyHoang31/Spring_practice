@@ -29,10 +29,4 @@ public class StudentService {
         studentRepository.delete(id);
     }
 
-    public Students getStudentById(int id) {
-        return studentRepository.findAll().stream()
-                .filter(student -> student.getId() == id)
-                .findFirst()
-                .orElse(null);
-    }
 }

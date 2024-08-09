@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee2e5d25-ca0f-4b24-a52a-c036ef6c7e29" name="Changes" comment="">
+    <list default="true" id="ee2e5d25-ca0f-4b24-a52a-c036ef6c7e29" name="Changes" comment="Initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Student/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Student/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Student/StudentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Student/StudentRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Student/StudentRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Student/StudentRepositoryImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Student/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Student/StudentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Student/Students.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Student/Students.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/beans.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,19 +23,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "HuyHoang31"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;HuyHoang31&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/HuyHoang31/Spring_practice.git",
-    "accountId": "3807f593-4847-4ae7-b89d-9261d6714e4e"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/HuyHoang31/Spring_practice.git&quot;,
+    &quot;accountId&quot;: &quot;3807f593-4847-4ae7-b89d-9261d6714e4e&quot;
   }
-}]]></component>
+}</component>
   <component name="JvmLoggingSettingsStorage">
     <option name="loggerId" value="Apache Commons Logging" />
   </component>
@@ -98,7 +93,20 @@
       <option name="presentableId" value="Default" />
       <updated>1723036342467</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1723191088592</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723191088593</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
